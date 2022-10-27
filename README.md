@@ -149,4 +149,4 @@ Sample Text Prediction
 pred
 
 RESULT
-Thus, an LSTM-based model for recognizing the named entities in the text is developed.
+Thus, an LSTM-based model for recognizing the named entities in the text is developed
